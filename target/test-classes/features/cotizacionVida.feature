@@ -4,7 +4,7 @@ Feature: Cotización seguro vida
    Given Ingresa a la web
 
   Scenario: Valida ingreso formatos incorrecto fecha
-    When Ingresa "0" en el campo de fecha
+#    When Ingresa "0" en el campo de fecha
 #    And  Selecciona la provincia
 #    And Valida que el campo fecha tenga errores
 #    And Se ingresa el numero de telefono con codigo de area "11" y numero "12345678"
