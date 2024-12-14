@@ -13,7 +13,7 @@ import utils.driverManager.BrowserManager;
         publish = true,
         features = "src/test/resources/features",
         glue = {"steps","hooks"},
-        tags = "@Smoke",
+        tags = "@cotizacionVida",
         plugin ={ "pretty","json:target/cucumber-reports/CucumberTestReport.json", })
 public class TestRunner extends AbstractTestNGCucumberTests {
     public static WebDriver driver;
