@@ -26,7 +26,7 @@ public class RunnerByTag extends AbstractTestNGCucumberTests {
     public void cerrarNavegador() throws InterruptedException {
         driver.close();
         Thread.sleep(5000);
-        driver.quit();
+ //       driver.quit();
     }
 }
 //PARA NO LEVANTAR EL NAVEGADOR SACAR EN edgeDriverLocal() el "--headless"
