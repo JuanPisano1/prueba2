@@ -24,7 +24,7 @@ public class EdgeDriverCreator {
 		options.setExperimentalOption("excludeSwitches", new String[] { "enable-automation" });
 		options.addArguments("--aggressive-cache-discard", "--allow-insecure-localhost",
 			   //EJECUTAR SIN LEVANTAR EL NAVEGADOR
-			//	"--headless",
+				"--headless",
 				"--allow-running-insecure-content", "--disable-application-cache",
 				"--disable-browser-side-navigation", "--disable-cache", "--disable-client-side-phishing-detection",
 				"--disable-default-apps", "--disable-extensions", "--disable-infobars", "--disable-notifications",
