@@ -1,1 +1,0 @@
-{"uuid":"d44d7595-ce4e-49d4-ab12-de9ef7830dee","name":"Pruebas octopus","children":["1ae1e682-f432-4897-b785-435d852230ed"],"befores":[{"name":"setupScenario","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702488103673,"stop":1702488109358}],"afters":[],"start":1702488103637,"stop":1702488174797}
