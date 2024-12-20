@@ -1,4 +1,4 @@
-@cotizacionVida1
+@cotizacionVida
 Feature: Cotización seguro vida
    Background:
    Given Ingresa a la web
