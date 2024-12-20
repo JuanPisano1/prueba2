@@ -1,5 +1,5 @@
 @cotizacionVida
-Feature: Cotización seguro vida
+Feature: Cotización seguro vida uno
    Background:
    Given Ingresa a la web
 
